@@ -12,9 +12,6 @@ We formed our team once again based on our common interests of speculative futur
 
 We want to introduce innovation into the sector of policymaking and civic engagement by creating an immersive technology that would enable users to visualise and experience the future impact of electoral programmes, to helps citizens understand and compare the real-world impacts of different political parties' policies. This tool aims to aid informed decision-making, enhance civic engagement, and assists community planning by illustrating how policies could shape their neighborhoods and daily lives. It was developped ahead of the Catalan elections of May 2024 to help simulate an election with our community, based on how each party's mobility and infrastructure proposals would shape Plaça d'Espanya, a major transport node in Barcelona. By visualizing the present state of Plaza Espanya in VR, alongside eight envisioned futures based on the 8 parties running, the project sought to provoke thought and gather feedback on urban mobility changes proposed by different political parties. 
 
-![microchallenge 3 4](https://github.com/sophma/microchallenge3/assets/147055292/43d3da56-9f39-444b-9f9f-51ba7eb8087a)
-
-
 ### References
 
 https://www.rtve.es/noticias/elecciones-catalanas/comparador-programas-electorales/ 
