@@ -40,6 +40,7 @@ As we weren't satisfied with OpenAI's future image output, we used another [AI m
 
 With all the images generated, we then created a VR experience where users could experience the 8 scenarios of Plaça d'Espanya without knowing to which party each scenario was related. After viewing each scenario, the user was asked to vote for its preferred scenario, thereby casting a vote for the associated party. Implementing intuitive navigation within the VR environment was crucial, allowing users to easily switch between current and future scenarios. We employed media queries and A-Frame’s responsive components to adjust the layout and functionality based on the device, ensuring a seamless user experience across platforms.
 
+![microchallenge 3 4](https://github.com/sophma/microchallenge3/assets/147055292/73ac2769-5397-4815-97af-401321e525d7)
 https://studio.youtube.com/video/lQLNvIXzhpI/edit
 
 ### Election outcome
@@ -47,9 +48,6 @@ https://studio.youtube.com/video/lQLNvIXzhpI/edit
 Interestingly, most people in the class voted for the left, followed closely by the right. A lot of people were surprised by their choice, which in some cases did not align with their political affiliations. This shows how much ideology can influence a person's election choice, as opposed to concrete policy proposals.
 
 ![microchallenge 3](https://github.com/sophma/microchallenge3/assets/147055292/5d7e9be6-d44e-4dea-b293-ca44c7406716)
-![microchallenge 3 4](https://github.com/sophma/microchallenge3/assets/147055292/307d567d-6079-40de-bcec-dc8eb47b75f0)
-
-
 ![Screenshot 2024-06-22 034945](https://github.com/sophma/microchallenge3/assets/147055292/cbfc92f4-2b59-41f4-9ee1-036043a3bfc5)
 
 
