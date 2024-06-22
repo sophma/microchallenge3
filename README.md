@@ -1,5 +1,5 @@
 # Microchallenge 3 - Virtual Catalan Elections
-## Creating possible futures based on electoral programmes
+## Visualising the impacts of electoral programmes
 Jorge, Sophie
 
 ## Ideation
